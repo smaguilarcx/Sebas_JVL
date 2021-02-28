@@ -1,4 +1,3 @@
-Esta
 This is a "Vulnerable" Web Application developed by Cyber Security and Privacy Foundation(www.cysecurity.org). This app is intended for the Java Programmers and other people who wish to learn about Web application vulnerabilities and write secure code.
 
 **The full course content is now available on Github for free:**
@@ -73,5 +72,3 @@ How to Use/Setup ?
 
 Get the VulnerableSpring Project from here:
 https://github.com/CSPF-Founder/VulnerableSpring
-
-Sebas
